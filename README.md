@@ -1,4 +1,4 @@
-#LeetCode
+# LeetCode
 
 Alright, I've been focused more on cybersecurity recently and it's starting to be increasingly important to occasionally practicing coding.
 
